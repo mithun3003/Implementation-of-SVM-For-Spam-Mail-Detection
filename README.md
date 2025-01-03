@@ -56,6 +56,8 @@ accuracy
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/b3531e9a-5b85-4808-ade1-fa0f3c0927e2)
+
 ![SVM For Spam Mail Detection](![image](https://github.com/user-attachments/assets/222ca4e7-faef-495d-8ee3-02cef9146db9)
 )
 ![image](https://github.com/user-attachments/assets/464bc1a2-b943-4bec-aa30-afb0b07bac49)
